@@ -1,0 +1,19 @@
+# Excel temporary and lock files
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+
+# Excel generated recovery and backup files
+*.xlk
+*.tmp
+*.bak
+
+# OS metadata
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
